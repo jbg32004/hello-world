@@ -1,2 +1,3 @@
 # hello-world
-Why don't scientists trust atoms?  Because they make up everything!
+What do you call a fish with no eyes?
+Fsh.
